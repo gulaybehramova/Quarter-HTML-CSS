@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#sect1{
+    background-color: #071c1f;
+}
+
+#container1 ul li{
+    list-style: none;
+}
+
+.top-menu ul li a{
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.top-menu ul li a:hover {
+        color: red;
+}
+
+.top-right ul li a{
+    color: white;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.top-button a{
+    background-color: tomato;
+    text-decoration: none;
+}
+.top-button a:hover{
+    background-color: rgb(146, 41, 22);
+}
+
+.top-menu ul li{
+    display: inline-block;
+}
+
+.top-right ul li{
+    display: inline-block;
+}
+
+.top-right{
+    margin: 15px;
+}
+
+#icon1{
+    padding: 10px;
+    color: red;
+}
+
+#icon2{
+    padding: 10px;
+    color: red;
+}
+
+.navbar-list ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+.navbar-list ul li{
+    float: left;
+}
+
+.navbar-list ul li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.navbar-list ul li a:hover{
+    color: red;
+}
+
+#sect2{
+    margin: 15px;
+}
+
+.icons i{
+    display: inline-block;
+    box-shadow: 6px 0px 2px #ece9e9;
+  }
+
+.icons i{
+float: left;
+padding: 15px 20px;
+}
+
+.icons i:hover{
+      background-color: tomato;
+  }
